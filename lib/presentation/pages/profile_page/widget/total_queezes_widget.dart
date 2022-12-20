@@ -4,7 +4,7 @@ import 'package:percent_indicator/circular_percent_indicator.dart';
 import 'package:queezy_uz/config/constants/app_colors.dart';
 import 'package:queezy_uz/config/constants/app_text_styles.dart';
 
-import '../../../../config/constants/assets.dart';
+import '../../../../../../config/constants/assets.dart';
 import 'about_quizzes.dart';
 
 class TotalQueezWidget extends StatefulWidget {
