@@ -9,7 +9,7 @@ import 'package:queezy_uz/presentation/widgets/custom_text_field.dart';
 import 'package:queezy_uz/presentation/widgets/or_widget.dart';
 import 'package:queezy_uz/presentation/widgets/user_agree_widget.dart';
 
-import '../../../../routes/routes.dart';
+import '../../../../../../routes/routes.dart';
 
 class LoginPage extends StatefulWidget {
   const LoginPage({super.key});
