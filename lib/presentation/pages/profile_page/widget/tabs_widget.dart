@@ -5,7 +5,7 @@ import 'package:flutter_svg/flutter_svg.dart';
 import 'package:queezy_uz/config/constants/app_colors.dart';
 import 'package:queezy_uz/config/constants/assets.dart';
 
-import '../../../../config/constants/app_text_styles.dart';
+import '../../../../../../config/constants/app_text_styles.dart';
 
 class TabsWidget extends StatelessWidget {
   const TabsWidget({
